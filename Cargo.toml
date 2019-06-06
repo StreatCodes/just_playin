@@ -1,0 +1,8 @@
+[package]
+name = "sample_server"
+version = "0.1.0"
+authors = ["StreatCodes <matt.r.streatfield@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+base64 = "0.10.1"
